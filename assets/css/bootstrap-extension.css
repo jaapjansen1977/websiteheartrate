@@ -1,0 +1,72 @@
+.m-n2 {
+    margin: -0.5rem !important;
+}
+
+.mt-n3 {
+    margin-top: -1rem !important;
+}
+
+.mt-n4 {
+    margin-top: -1.5rem !important;
+}
+
+.width-64 {
+    width: 4rem;
+}
+
+.width-80 {
+    width: 5rem;
+}
+
+.width-160 {
+    width: 10rem;
+}
+
+.minwidth-160 {
+    min-width: 10rem;
+}
+
+.minwidth-208 {
+    min-width: 13rem;
+}
+
+.minwidth-256 {
+    min-width: 16rem;
+}
+
+.mw-15 {
+    max-width: 15%;
+}
+
+.maxwidth-160 {
+    max-width: 10rem;
+}
+
+.maxwidth-208 {
+    max-width: 13rem;
+}
+
+.maxwidth-256 {
+    max-width: 16rem;
+}
+
+.maxwidth-320 {
+    max-width: 20rem;
+}
+
+.maxwidth-480 {
+    max-width: 30rem;
+}
+
+.maxwidth-800 {
+    max-width: 50rem;
+}
+
+.fs-7 {
+    font-size: 0.75rem !important;
+}
+
+.form-label.required:after {
+    content: "\00A0*";
+    color: red;
+}

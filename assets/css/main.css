@@ -1,0 +1,11 @@
+.invalid-feedback {
+    display: block;
+}
+
+.form-control+.invalid-feedback {
+    visibility: hidden;
+}
+
+.form-control.is-invalid+.invalid-feedback {
+    visibility: visible;
+}
